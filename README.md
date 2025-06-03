@@ -1,4 +1,4 @@
-# 🏀 Nike Landing Page - React JS
+# Nike Landing Page - React JS
 
 A clean and modern landing page for Nike products built using **React JS**, **HTML**, and **CSS**.
 
